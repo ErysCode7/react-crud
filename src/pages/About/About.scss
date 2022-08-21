@@ -1,0 +1,14 @@
+.app__about {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 50px;
+
+  &-title {
+    color: #1976d2;
+    font-weight: 700;
+  }
+
+  &-text {
+    color: #999;
+  }
+}

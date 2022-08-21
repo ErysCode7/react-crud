@@ -1,0 +1,22 @@
+.app__home-postfeed {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  padding-bottom: 2rem;
+
+  &_alert {
+    min-height: 120px;
+    display: flex;
+    align-items: center;
+
+    &-link {
+      color: green;
+    }
+  }
+
+  &_title {
+    color: #1976d2;
+    font-weight: 900;
+    font-size: 2.5rem;
+  }
+}

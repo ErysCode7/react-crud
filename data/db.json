@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "asdaskfl-asdasd",
+      "title": "Digital Tech",
+      "post": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis mollitia tenetur alias inventore ad voluptatibus atque sunt optio eum aliquid, accusantium totam. Obcaecati, corrupti nisi!",
+      "author": "Sam Michaels"
+    },
+    {
+      "id": "1111-231521",
+      "title": "Technology",
+      "post": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis mollitia tenetur alias inventore ad voluptatibus atque sunt optio eum aliquid, accusantium totam. Obcaecati, corrupti nisi!",
+      "author": "Michael Jean"
+    },
+    {
+      "id": "1245125-asdasd",
+      "title": "Web tech",
+      "post": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis mollitia tenetur alias inventore ad voluptatibus atque sunt optio eum aliquid, accusantium totam. Obcaecati, corrupti nisi!",
+      "author": "Mark Payne"
+    }
+  ]
+}
